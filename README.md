@@ -46,7 +46,7 @@
 - []()
 
 ## dfu
--[]()
+- []()
 
 ## bootloader
 - []()
@@ -59,3 +59,6 @@
 
 ## TCP/IP
 - [uIP](https://www.wikiwand.com/en/UIP_(micro_IP))
+
+## GUI
+- []()
