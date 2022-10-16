@@ -33,7 +33,7 @@
 ## shell
 - [letter shell](https://github.com/NevermindZZT/letter-shell) : 可以让串口对现有函数进行组合以及调用
 
-## Button
+## button/key
 - [MultiButton](https://github.com/0x1abin/MultiButton) : 按键管理
 
 ## timer
