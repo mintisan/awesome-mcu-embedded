@@ -7,7 +7,7 @@
 - [lwevt](https://github.com/MaJerle/lwevt) : 适用于【多生产者-单消费者】模型，比如多传感器数据的读取后统一管理
 
 ## coroutine
-- [protothread](http://dunkels.com/adam/pt/) 
+- [protothread](http://dunkels.com/adam/pt/) : 线程中的非阻塞轮询框架
 
 ## memory manager
 - [lwmem](https://github.com/MaJerle/lwmem) : 可控可调，挺好
