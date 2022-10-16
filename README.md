@@ -81,5 +81,20 @@
 ### Menu
 - []()
 
+## font
+- []()
+
+## mqtt
+- []()
+
+## random number generator
+- []()
+
+## C++ template
+- [Embedded Template Library (ETL)](https://github.com/ETLCPP/etl)
+
+## compression
+- [heatshrink](https://github.com/atomicobject/heatshrink)
+
 ## code style
 - [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style)
