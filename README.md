@@ -96,6 +96,9 @@
 ## C++ template
 - [Embedded Template Library (ETL)](https://github.com/ETLCPP/etl)
 
+## public domain libraries
+- [stb](https://github.com/nothings/stb)
+
 ## compression
 - [heatshrink](https://github.com/atomicobject/heatshrink)
 
