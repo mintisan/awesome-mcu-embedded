@@ -21,6 +21,12 @@
 ## printf
 - [lwprintf](https://github.com/MaJerle/lwprintf) : 非依赖第三方库的打印
 
+## log
+- []()
+
+## flash
+- []()
+
 ## shell
 - [letter shell](https://github.com/NevermindZZT/letter-shell) : 可以让串口对现有函数进行组合以及调用
 
@@ -30,3 +36,5 @@
 ## timer
 - [MultiTimer](https://github.com/0x1abin/MultiTimer) : 软件定时器
 
+## checksum
+- [libcrc](https://github.com/lammertb/libcrc) : CRC 校验数据完整性
