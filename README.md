@@ -22,13 +22,20 @@
 - [lwprintf](https://github.com/MaJerle/lwprintf) : 非依赖第三方库的打印
 
 ## log
-- []()
+- [EasyLogger](https://github.com/armink/EasyLogger)
 
 ## flash
-- []()
+- [SFUD](https://github.com/armink/SFUD)
+- [FlashDB](https://github.com/armink/FlashDB)
 
 ## file system
-- []()
+- [littlefs](https://github.com/littlefs-project/littlefs)
+
+## JSON
+- [cJSON](https://github.com/DaveGamble/cJSON)
+
+## math library
+- [CMSIS DSP](https://github.com/ARM-software/CMSIS-DSP)
 
 ## shell
 - [letter shell](https://github.com/NevermindZZT/letter-shell) : 可以让串口对现有函数进行组合以及调用
@@ -46,13 +53,13 @@
 - [CmBacktrace](https://github.com/armink/CmBacktrace)
 
 ## oop framework
-- []()
+- [PLOOC](https://github.com/GorgonMeducer/PLOOC)
 
 ## dfu
 - []()
 
 ## bootloader
-- []()
+- [mcuboot](https://www.mcuboot.com/)
 
 ## usb
 - [tinyusb](https://github.com/hathach/tinyusb)
