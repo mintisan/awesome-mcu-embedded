@@ -44,3 +44,18 @@
 
 ## oop framework
 - []()
+
+## dfu
+-[]()
+
+## bootloader
+- []()
+
+## usb
+- [tinyusb](https://github.com/hathach/tinyusb)
+
+## bluetooth
+- [btstack](https://github.com/bluekitchen/btstack)
+
+## TCP/IP
+- [uIP](https://www.wikiwand.com/en/UIP_(micro_IP))
