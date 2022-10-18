@@ -104,3 +104,6 @@
 
 ## code style
 - [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style)
+
+## blog
+- [interrupt blog](https://interrupt.memfault.com/)
