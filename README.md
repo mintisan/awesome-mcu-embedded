@@ -25,6 +25,7 @@
   - [Standalone printf/sprintf formatted printing function library](https://modm.io/reference/module/modm-printf/)
 - [charlesnicholson/nanoprintf](https://github.com/charlesnicholson/nanoprintf) : The smallest public printf implementation for its feature set.
 - [cjlano/tinyprintf](https://github.com/cjlano/tinyprintf) : A tiny printf and sprintf library for small embedded systems
+  - [A tiny printf for embedded applications](http://www.sparetimelabs.com/tinyprintf/tinyprintf.php)
 - [MaJerle/lwprintf](https://github.com/MaJerle/lwprintf) : Lightweight printf library optimized for embedded systems
 - blog
   - [printf() and friends… yes, really :-)](https://eyalroz.github.io/software/printf/)
