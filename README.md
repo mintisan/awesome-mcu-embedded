@@ -37,6 +37,7 @@
   - [TriceUserGuide.md](https://github.com/rokath/trice/blob/master/docs/TriceUserGuide.md)
   - [TriceSpeed.md](https://github.com/rokath/trice/blob/master/docs/TriceSpeed.md)
   - [Trice Similarities and differences to printf usage](https://github.com/rokath/trice/blob/master/docs/TriceVsPrintfSimilaritiesAndDifferences.md#printf-like-functions)
+- [μP7 (micro P7) ](https://baical.net/up7.html) : μP7 (micro P7) is lightweight C library for sending trace/logs & telemetry data from your Micro-controller’s firmware to host/HW FIFO/cycle buffer/network/etc. for further analysis. It is designed to be integrated on almost every microcontroller, even with very limited resources.
 - [Zephyr Logging](https://docs.zephyrproject.org/3.1.0/services/logging/index.html)
 - [rxi/log.c](https://github.com/rxi/log.c) : A simple logging library implemented in C99
 - [rdpoor/ulog](https://github.com/rdpoor/ulog) : lightweight logging for embedded microcontrollers
