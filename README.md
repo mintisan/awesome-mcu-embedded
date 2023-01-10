@@ -20,10 +20,35 @@
 - [lwpkt](https://github.com/MaJerle/lwpkt) : 可用于打包传感器数据
 
 ## printf
-- [lwprintf](https://github.com/MaJerle/lwprintf) : 非依赖第三方库的打印
+- [mpaland/printf](https://github.com/mpaland/printf) : Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
+- [eyalroz/printf](https://github.com/eyalroz/printf) : forked [mpaland/printf] Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc. implementation, mainly for embedded systems
+  - [Standalone printf/sprintf formatted printing function library](https://modm.io/reference/module/modm-printf/)
+- [charlesnicholson/nanoprintf](https://github.com/charlesnicholson/nanoprintf) : The smallest public printf implementation for its feature set.
+- [cjlano/tinyprintf](https://github.com/cjlano/tinyprintf) : A tiny printf and sprintf library for small embedded systems
+- [MaJerle/lwprintf](https://github.com/MaJerle/lwprintf) : Lightweight printf library optimized for embedded systems
+- blog
+  - [printf() and friends… yes, really :-)](https://eyalroz.github.io/software/printf/)
+  - [An Embedded-friendly printf Implementation](https://embeddedartistry.com/blog/2019/11/06/an-embedded-friendly-printf-implementation/)
 
 ## log
+- [rokath/trice](https://github.com/rokath/trice) : super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization)
+  - Homepage : https://rokath.github.io/trice/
+  - [Tracing & Logging with the `TRICE` Library (Interrupts too!)](https://interrupt.memfault.com/blog/trice)
+  - [TriceUserGuide.md](https://github.com/rokath/trice/blob/master/docs/TriceUserGuide.md)
+  - [TriceSpeed.md](https://github.com/rokath/trice/blob/master/docs/TriceSpeed.md)
+  - [Trice Similarities and differences to printf usage](https://github.com/rokath/trice/blob/master/docs/TriceVsPrintfSimilaritiesAndDifferences.md#printf-like-functions)
+- [Zephyr Logging](https://docs.zephyrproject.org/3.1.0/services/logging/index.html)
+- [rxi/log.c](https://github.com/rxi/log.c) : A simple logging library implemented in C99
+- [rdpoor/ulog](https://github.com/rdpoor/ulog) : lightweight logging for embedded microcontrollers
+- [martinribelotta/elog](https://github.com/martinribelotta/elog) : Embedded logger with minimal footprint and memory usage
 - [EasyLogger](https://github.com/armink/EasyLogger)
+- blog
+  - [printf/log Debugging](https://emp.jamesmunns.com/debug/logging.html) : Embedded: The Missing Parts
+  - [BEYOND PRINTF(): BETTER LOGGING PRACTICES FOR FASTER DEBUGGING](https://hackaday.com/2020/07/21/beyond-printf-better-logging-practices-for-faster-debugging/)
+  - [Embedded Logging Framework for Spacecrafts](https://ui.adsabs.harvard.edu/abs/2013ESASP.720E..52D/abstract)
+  - [McuLog: Logging Framework for small Embedded Microcontroller Systems](https://mcuoneclipse.com/2020/06/01/mculog-logging-framework-for-small-embedded-microcontroller-systems/)
+  - [Logging On An Embedded System](https://blog.mbedded.ninja/programming/logging-on-an-embedded-system/)
+
 
 ## flash
 - [SFUD](https://github.com/armink/SFUD)
