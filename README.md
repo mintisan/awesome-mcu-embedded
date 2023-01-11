@@ -18,6 +18,7 @@
 
 ## frame packet
 - [lwpkt](https://github.com/MaJerle/lwpkt) : 可用于打包传感器数据
+- [STCmdP Protocol manager](https://www.st.com/en/embedded-software/x-cube-opus.html)
 
 ## printf
 - [mpaland/printf](https://github.com/mpaland/printf) : Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
