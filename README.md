@@ -54,6 +54,8 @@
 
 ## flash
 - [SFUD](https://github.com/armink/SFUD)
+- [Flash Circular Buffer (FCB)](https://docs.zephyrproject.org/3.2.0/services/storage/fcb/fcb.html) : Flash circular buffer provides an abstraction through which you can treat flash like a FIFO. You append entries to the end, and read data from the beginning.
+
 
 ### flash database
 - [FlashDB](https://github.com/armink/FlashDB)
