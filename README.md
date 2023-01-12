@@ -6,6 +6,8 @@
 
 ## event framework
 - [lwevt](https://github.com/MaJerle/lwevt) : 适用于【多生产者-单消费者】模型，比如多传感器数据的读取后统一管理
+- [NevermindZZT/cpost](https://github.com/NevermindZZT/cpost) : c语言程序上下文切换和解耦的工具
+  - [C语言模块化编程的完美解耦](https://nevermindzzt.github.io/2020/12/20/C%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9D%97%E5%8C%96%E7%BC%96%E7%A8%8B%E7%9A%84%E5%AE%8C%E7%BE%8E%E8%A7%A3%E8%80%A6/)
 
 ## coroutine
 - [protothread](http://dunkels.com/adam/pt/) : 线程中的非阻塞轮询框架
