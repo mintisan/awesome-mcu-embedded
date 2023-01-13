@@ -137,6 +137,23 @@
 
 ## compression
 - [heatshrink](https://github.com/atomicobject/heatshrink)
+- [Golomb-Rice Coding](https://urchin.earth.li/~twic/Golomb-Rice_Coding.html)
+  - [brookicv/GolombCode](https://github.com/brookicv/GolombCode)
+  - [Golomb及指数哥伦布编码原理介绍及实现](https://www.cnblogs.com/wangguchangqing/p/6297792.html)
+  - [MichaelDipperstein/rice](https://github.com/MichaelDipperstein/rice)
+  - [anirudhvr/golomb-coding](https://github.com/anirudhvr/golomb-coding)
+- [kamyar-nemati/libecg](https://github.com/kamyar-nemati/libecg) : Hybrid lossless and lossy compression technique for ECG signals
+- Run-length encoding algorithm
+  - [MichaelDipperstein/rle](https://github.com/MichaelDipperstein/rle) : An ANSI C implementation of Run Length Encoding
+- Huffman
+  - [MichaelDipperstein/huffman](https://github.com/MichaelDipperstein/huffman) : An ANSI C implementation of Huffman coding
+- Delta coding
+  - [MichaelDipperstein/delta](https://github.com/MichaelDipperstein/delta) : an ANSI C implementation of adaptive delta coding
+- BitArray
+  - [noporpoise/BitArray](https://github.com/noporpoise/BitArray)
+  - [MichaelDipperstein/bitarray](https://github.com/MichaelDipperstein/bitarray)
+  - [ilanschnell/bitarray](https://github.com/ilanschnell/bitarray/blob/master/bitarray/_bitarray.c) : efficient arrays of booleans for Python
+
 
 ## code style
 - [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style)
