@@ -147,6 +147,7 @@
   - [MichaelDipperstein/rle](https://github.com/MichaelDipperstein/rle) : An ANSI C implementation of Run Length Encoding
 - Huffman
   - [MichaelDipperstein/huffman](https://github.com/MichaelDipperstein/huffman) : An ANSI C implementation of Huffman coding
+  - [Comparison Between (RLE And Huffman) Algorithmsfor Lossless Data Compression](https://core.ac.uk/download/pdf/228547034.pdf)
 - Delta coding
   - [MichaelDipperstein/delta](https://github.com/MichaelDipperstein/delta) : an ANSI C implementation of adaptive delta coding
 - BitArray
