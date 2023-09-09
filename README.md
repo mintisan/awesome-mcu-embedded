@@ -1,5 +1,9 @@
 # embedded-library-used
 
+## sdk
+
+- [Memfault Firmware SDK](https://github.com/memfault/memfault-firmware-sdk) : Memfault Firmware SDK for embedded systems. More information at
+
 ## rtos
 - [freeRTOS](https://www.freertos.org/) : 简单够用的 RTOS
 - [Zephyr OS](https://github.com/zephyrproject-rtos/zephyr) : 里面什么都有
