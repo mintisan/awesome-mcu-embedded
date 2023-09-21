@@ -4,6 +4,7 @@
 
 - [Memfault Firmware SDK](https://github.com/memfault/memfault-firmware-sdk) : Memfault Firmware SDK for embedded systems.
 - [Golioth Firmware SDK](https://github.com/golioth/golioth-firmware-sdk)
+- [Swedish Embedded Platform SDK](https://github.com/swedishembedded/sdk)
 
 ## rtos
 - [freeRTOS](https://www.freertos.org/) : 简单够用的 RTOS
