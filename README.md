@@ -143,6 +143,7 @@
 
 ## compression
 - [Quite OK Image Format](https://github.com/phoboslab/qoi) : The “Quite OK Image Format” for fast, lossless image compression
+    - [qoir](https://github.com/nigeltao/qoir) : A fast, simple, lossless image file format.
 - [heatshrink](https://github.com/atomicobject/heatshrink)
 - [Golomb-Rice Coding](https://urchin.earth.li/~twic/Golomb-Rice_Coding.html)
   - [brookicv/GolombCode](https://github.com/brookicv/GolombCode)
