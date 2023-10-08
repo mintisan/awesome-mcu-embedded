@@ -73,7 +73,8 @@
 - [FlashDB](https://github.com/armink/FlashDB)
 
 ## file system
-- [littlefs](https://github.com/littlefs-project/littlefs)
+- [littlefs](https://github.com/littlefs-project/littlefs) : Nor Flash
+- [YafFS-2](https://yaffs.net/) : 适合 Nand Flash
 
 ## JSON
 - [cJSON](https://github.com/DaveGamble/cJSON)
