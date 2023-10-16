@@ -23,6 +23,8 @@
 
 ## memory manager
 - [lwmem](https://github.com/MaJerle/lwmem) : 可控可调，挺好
+- [umm_malloc](https://github.com/rhempel/umm_malloc) : Memory Manager For Small(ish) Microprocessors
+
 
 ## ring buffer
 - [lwrb](https://github.com/MaJerle/lwrb) : 适用于传感器数据的读取和发送
