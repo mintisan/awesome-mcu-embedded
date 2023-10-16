@@ -3,6 +3,8 @@
 ## package manager
 
 - [clib](https://github.com/clibs/clib) : Package manager for the C programming language.
+- [stb](https://github.com/nothings/stb) : stb single-file public domain libraries for C/C++
+
 
 ## sdk
 
