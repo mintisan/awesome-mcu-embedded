@@ -1,5 +1,9 @@
 # embedded-library-used
 
+## package manager
+
+- [clib](https://github.com/clibs/clib) : Package manager for the C programming language.
+
 ## sdk
 
 - [Memfault Firmware SDK](https://github.com/memfault/memfault-firmware-sdk) : Memfault Firmware SDK for embedded systems.
