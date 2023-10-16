@@ -28,8 +28,9 @@
 
 
 
-## ring buffer
-- [lwrb](https://github.com/MaJerle/lwrb) : 适用于传感器数据的读取和发送
+## buffer
+- [lwrb](https://github.com/MaJerle/lwrb) : 循环buffer，适用于传感器数据的读取和发送（特别是DMA）
+- [Growable Memory Buffers for C99](https://github.com/skeeto/growable-buf) 
 
 ## frame packet
 - [lwpkt](https://github.com/MaJerle/lwpkt) : 可用于打包传感器数据
