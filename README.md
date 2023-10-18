@@ -134,7 +134,7 @@
 - [uIP](https://www.wikiwand.com/en/UIP_(micro_IP))
 
 ## GUI
-- []()
+- [LVGL](https://lvgl.io/) : Light and Versatile Graphics Library
 
 ### Menu
 - []()
