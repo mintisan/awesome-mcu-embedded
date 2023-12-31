@@ -7,6 +7,13 @@
 - [stb](https://github.com/nothings/stb) : stb single-file public domain libraries for C/C++
 
 
+## libc
+
+- https://github.com/embeddedartistry/libc : libc targeted for embedded systems usage. Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
+
+
+
+
 ## sdk
 
 - [Memfault Firmware SDK](https://github.com/memfault/memfault-firmware-sdk) : Memfault Firmware SDK for embedded systems.
@@ -30,6 +37,7 @@
 
 ## memory manager
 - [lwmem](https://github.com/MaJerle/lwmem) : 可控可调，挺好/realloc 有问题
+- https://github.com/embeddedartistry/libmemory : Embedded systems memory management library. Implementations for malloc(), free(), and other useful memory management functions
 - [umm_malloc](https://github.com/rhempel/umm_malloc) : Memory Manager For Small(ish) Microprocessors
 - [tbman](https://github.com/johsteffens/tbman) : Memory Manager - Fast, Scalable and Easy to use
 
