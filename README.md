@@ -157,10 +157,9 @@
 ## public domain libraries
 - [stb](https://github.com/nothings/stb)
 
+
 ## compression
-- [Quite OK Image Format](https://github.com/phoboslab/qoi) : The “Quite OK Image Format” for fast, lossless image compression
-    - [qoir](https://github.com/nigeltao/qoir) : A fast, simple, lossless image file format.
-    - [QOIX](https://github.com/AuburnSounds/gamut) : Image encoding and decoding library for D. Detailed layout control. Experimental codec QOIX.
+
 - [heatshrink](https://github.com/atomicobject/heatshrink)
 - [Golomb-Rice Coding](https://urchin.earth.li/~twic/Golomb-Rice_Coding.html)
   - [brookicv/GolombCode](https://github.com/brookicv/GolombCode)
@@ -179,6 +178,33 @@
   - [noporpoise/BitArray](https://github.com/noporpoise/BitArray)
   - [MichaelDipperstein/bitarray](https://github.com/MichaelDipperstein/bitarray)
   - [ilanschnell/bitarray](https://github.com/ilanschnell/bitarray/blob/master/bitarray/_bitarray.c) : efficient arrays of booleans for Python
+
+### ImageCodec
+
+- [Quite OK Image Format](https://github.com/phoboslab/qoi) : The “Quite OK Image Format” for fast, lossless image compression
+    - [qoir](https://github.com/nigeltao/qoir) : A fast, simple, lossless image file format.
+    - [QOIX](https://github.com/AuburnSounds/gamut) : Image encoding and decoding library for D. Detailed layout control. Experimental codec QOIX.
+
+#### PNG
+
+- [libpng](http://www.libpng.org/pub/png/libpng.html)
+- [LodePNG](https://github.com/lvandeve/lodepng) : 解码 VGA 图片需要 2.3MB 的内存空间
+- [SPNG](https://github.com/randy408/libspng) : 对嵌入式比较友好，解码 VGA 图片只需要 50KB 空间
+  - https://github.com/richgel999/miniz : 谷歌平替 zlib
+- [PNGdec](https://github.com/bitbank2/PNGdec) : Arduino PNG image decoder library
+- https://github.com/misc0110/libattopng
+- https://github.com/elanthis/upng
+
+#### JPG
+
+- [libjpeg](https://libjpeg.sourceforge.net/)
+- https://github.com/richgel999/picojpeg
+
+### GIF
+
+- [Libnsgif](https://www.netsurf-browser.org/projects/libnsgif/) : 基本不需要额外内存空间
+- https://github.com/lecram/gifdec : small C GIF decoder
+
 
 
 ## code style
