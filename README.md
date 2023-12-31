@@ -29,7 +29,7 @@
 - [protothread](http://dunkels.com/adam/pt/) : 线程中的非阻塞轮询框架
 
 ## memory manager
-- [lwmem](https://github.com/MaJerle/lwmem) : 可控可调，挺好
+- [lwmem](https://github.com/MaJerle/lwmem) : 可控可调，挺好/realloc 有问题
 - [umm_malloc](https://github.com/rhempel/umm_malloc) : Memory Manager For Small(ish) Microprocessors
 - [tbman](https://github.com/johsteffens/tbman) : Memory Manager - Fast, Scalable and Easy to use
 
