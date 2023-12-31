@@ -10,7 +10,7 @@
 ## libc
 
 - https://github.com/embeddedartistry/libc : libc targeted for embedded systems usage. Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
-
+- https://github.com/DevSolar/pdclib : The Public Domain C Library
 
 
 
