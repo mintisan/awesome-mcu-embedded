@@ -212,6 +212,7 @@
 ### GIF
 
 - [Libnsgif](https://www.netsurf-browser.org/projects/libnsgif/) : 基本不需要额外内存空间
+- https://giflib.sourceforge.net/
 - https://github.com/lecram/gifdec : small C GIF decoder
 - [AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) : A lightweight Arduino GIF decoder for playing animated files from memory or files on SD cards
 
