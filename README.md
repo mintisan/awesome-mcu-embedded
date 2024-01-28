@@ -3,6 +3,7 @@
 ## package manager
 
 - [clib](https://github.com/clibs/clib) : Package manager for the C programming language.
+- [C_std](https://github.com/KaisenAmin/c_std) : Implementation of C++ standard libraries in C
 - [conan](https://github.com/conan-io/conan) : Conan - The open-source C and C++ package manager
 - [stb](https://github.com/nothings/stb) : stb single-file public domain libraries for C/C++
 
