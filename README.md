@@ -225,6 +225,7 @@
 
 ## code style
 - [MaJerle/c-code-style](https://github.com/MaJerle/c-code-style)
+- [mcinglis/c-style](https://github.com/mcinglis/c-style)
 
 ## blog
 - [interrupt blog](https://interrupt.memfault.com/)
