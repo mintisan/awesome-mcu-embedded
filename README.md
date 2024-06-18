@@ -107,6 +107,7 @@
 ## math library
 - [CMSIS DSP](https://github.com/ARM-software/CMSIS-DSP) : CMSIS Version 5 Development Repository
 - [libfixmath](https://github.com/PetteriAimonen/libfixmath) : Cross Platform Fixed Point Maths Library
+- [smolar](https://github.com/Maharshi-Pandya/smolar) : a tiny multidimensional array implementation in C similar to numpy, but only one file.
 
 
 ## shell
@@ -173,6 +174,7 @@
 ## compression
 
 - [heatshrink](https://github.com/atomicobject/heatshrink)
+- [heatshrink-sfh](https://github.com/cnlohr/heatshrink-sfh) : Single-file-header, stripped-down version of the heatshrink decompression algorithm.
 - [Golomb-Rice Coding](https://urchin.earth.li/~twic/Golomb-Rice_Coding.html)
   - [brookicv/GolombCode](https://github.com/brookicv/GolombCode)
   - [Golomb及指数哥伦布编码原理介绍及实现](https://www.cnblogs.com/wangguchangqing/p/6297792.html)
