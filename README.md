@@ -176,6 +176,7 @@
 
 - [heatshrink](https://github.com/atomicobject/heatshrink)
 - [heatshrink-sfh](https://github.com/cnlohr/heatshrink-sfh) : Single-file-header, stripped-down version of the heatshrink decompression algorithm.
+- [tinf - tiny inflate library](https://github.com/jibsen/tinf/) : Tiny inflate library (inflate, gzip, zlib)
 - [Golomb-Rice Coding](https://urchin.earth.li/~twic/Golomb-Rice_Coding.html)
   - [brookicv/GolombCode](https://github.com/brookicv/GolombCode)
   - [Golomb及指数哥伦布编码原理介绍及实现](https://www.cnblogs.com/wangguchangqing/p/6297792.html)
