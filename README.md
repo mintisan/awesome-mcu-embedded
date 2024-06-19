@@ -13,6 +13,9 @@
 
 - https://github.com/embeddedartistry/libc : libc targeted for embedded systems usage. Reduced set of functionality (due to embedded nature). Chosen for portability and quick bringup.
 - https://github.com/DevSolar/pdclib : The Public Domain C Library
+- https://github.com/picolibc/picolibc : picolibc - a C library designed for embedded 32- and 64- bit systems.
+
+
 
 
 
