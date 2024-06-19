@@ -37,6 +37,7 @@
 
 - [MicroPython](https://github.com/micropython/micropython) : a lean and efficient Python implementation for microcontrollers and constrained systems
 - [PikaPython](https://github.com/pikasTech/PikaPython) : An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
+- [Rust Embedded](https://github.com/rust-embedded) : Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal)
 
 
 
@@ -168,7 +169,9 @@
 - []()
 
 ## mqtt
-- []()
+- [mqttclient](https://github.com/jiejieTop/mqttclient) : A high-performance, high-stability, cross-platform MQTT client, developed based on the socket API, can be used on embedded devices (FreeRTOS / LiteOS / RT-Thread / TencentOS tiny), Linux, Windows, Mac, with a very concise The API interface realizes the quality of service of QOS2 with very few resources, and seamlessly connects the mbedtls encryp…
+
+
 
 ## random number generator
 - []()
