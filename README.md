@@ -26,6 +26,9 @@
 - [freeRTOS](https://www.freertos.org/) : 简单够用的 RTOS
 - [Zephyr OS](https://github.com/zephyrproject-rtos/zephyr) : 里面什么都有
 - [MiROS](https://github.com/QuantumLeaps/MiROS) : 学习用的
+- [YiYiYa](https://github.com/evilbinary/YiYiYa) : YiYiYa 一个os
+
+
 
 ## event framework
 - [lwevt](https://github.com/MaJerle/lwevt) : 适用于【多生产者-单消费者】模型，比如多传感器数据的读取后统一管理
