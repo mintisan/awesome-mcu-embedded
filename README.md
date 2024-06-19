@@ -24,6 +24,7 @@
 ## rtos
 - [freeRTOS](https://www.freertos.org/) : 简单够用的 RTOS
 - [Zephyr OS](https://github.com/zephyrproject-rtos/zephyr) : 里面什么都有
+- [MiROS](https://github.com/QuantumLeaps/MiROS) : 学习用的
 
 ## event framework
 - [lwevt](https://github.com/MaJerle/lwevt) : 适用于【多生产者-单消费者】模型，比如多传感器数据的读取后统一管理
@@ -31,6 +32,12 @@
   - [C语言模块化编程的完美解耦](https://nevermindzzt.github.io/2020/12/20/C%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9D%97%E5%8C%96%E7%BC%96%E7%A8%8B%E7%9A%84%E5%AE%8C%E7%BE%8E%E8%A7%A3%E8%80%A6/)
 - [andsmedeiros/uevloop](https://github.com/andsmedeiros/uevloop) : A fast and lightweight event loop aimed at embedded platforms in C99.
 - [eerimoq/async](https://github.com/eerimoq/async) : Asynchronous framework in C for systems where low memory usage is important.
+
+## vm
+
+- [MicroPython](https://github.com/micropython/micropython) : a lean and efficient Python implementation for microcontrollers and constrained systems
+- [PikaPython](https://github.com/pikasTech/PikaPython) : An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
+
 
 
 ## coroutine
