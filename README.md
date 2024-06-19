@@ -216,6 +216,9 @@
 
 - [libjpeg](https://libjpeg.sourceforge.net/)
 - https://github.com/richgel999/picojpeg
+- [TinyJPEG](https://github.com/serge-rgb/TinyJPEG) : Single header lib for JPEG encoding. Public domain. C99. stb style.
+
+
 
 ### GIF
 
