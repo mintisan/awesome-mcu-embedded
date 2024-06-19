@@ -119,6 +119,7 @@
 
 ## timer
 - [MultiTimer](https://github.com/0x1abin/MultiTimer) : 软件定时器
+- [perf_counter](https://github.com/GorgonMeducer/perf_counter) : A dedicated performance counter for Cortex-M systick. It shares the SysTick with users' original SysTick function without interfering it. This library will bring new functionalities, such as performance counter, delay_us and clock() service defined in time.h
 
 ## checksum
 - [libcrc](https://github.com/lammertb/libcrc) : CRC 校验数据完整性
