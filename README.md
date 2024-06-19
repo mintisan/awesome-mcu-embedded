@@ -1,3 +1,4 @@
+
 # embedded-library-used
 
 ## package manager
@@ -55,7 +56,10 @@
 
 ## buffer
 - [lwrb](https://github.com/MaJerle/lwrb) : 循环buffer，适用于传感器数据的读取和发送（特别是DMA）
-- [Growable Memory Buffers for C99](https://github.com/skeeto/growable-buf) 
+- [Growable Memory Buffers for C99](https://github.com/skeeto/growable-buf)
+
+## queue
+- [wl_queue](https://github.com/Aladdin-Wang/wl_queue) : 一个C语言编写的支持任意类型的环形队列.
 
 ## frame packet
 - [lwpkt](https://github.com/MaJerle/lwpkt) : 可用于打包传感器数据
