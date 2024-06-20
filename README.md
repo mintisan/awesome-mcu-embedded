@@ -10,8 +10,15 @@ A curated list of awesome libraries, projects, tutorials, and other resources re
 - [libc](#libc)
 - [sdk](#sdk)
 - [utility](#utility)
-- [programming framework](#programming)
+- [programming framework](#programming-framework)
   - [rtos](#rtos)
+  - [event](#event)
+  - [vm](#vm)
+  - [thread](#thread)
+  - [coroutine](#coroutine)
+  - [oop framework](#oop-framework)
+- [memory manager](#memory-manager)
+  - [dynamic malloc](#dynamic-malloc)
 - [Contributing](#contributing)
 
 
@@ -79,7 +86,7 @@ A curated list of awesome libraries, projects, tutorials, and other resources re
 
 ## memory manager
 
-### malloc
+### dynamic malloc
 - [lwmem](https://github.com/MaJerle/lwmem) : 可控可调，挺好/realloc 有问题
 - [libmemory](https://github.com/embeddedartistry/libmemory) : Embedded systems memory management library. Implementations for malloc(), free(), and other useful memory management functions
 - [umm_malloc](https://github.com/rhempel/umm_malloc) : Memory Manager For Small(ish) Microprocessors
