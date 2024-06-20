@@ -24,7 +24,12 @@
 - [Memfault Firmware SDK](https://github.com/memfault/memfault-firmware-sdk) : Memfault Firmware SDK for embedded systems.
 - [Golioth Firmware SDK](https://github.com/golioth/golioth-firmware-sdk)
 - [Swedish Embedded Platform SDK](https://github.com/swedishembedded/sdk)
+
+## utility
 - [C language utility library](https://github.com/MaJerle/lwutil) : Versatile and easy to use C language utility library with functions and macros commonly used in various applications
+- [Portable Snippets](https://github.com/nemequ/portable-snippets) : Collection of miscellaneous portable C snippets.
+
+
 
 ## rtos
 - [freeRTOS](https://www.freertos.org/) : 简单够用的 RTOS
