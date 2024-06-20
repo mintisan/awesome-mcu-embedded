@@ -54,7 +54,7 @@
 
 ## memory manager
 - [lwmem](https://github.com/MaJerle/lwmem) : 可控可调，挺好/realloc 有问题
-- https://github.com/embeddedartistry/libmemory : Embedded systems memory management library. Implementations for malloc(), free(), and other useful memory management functions
+- [libmemory](https://github.com/embeddedartistry/libmemory) : Embedded systems memory management library. Implementations for malloc(), free(), and other useful memory management functions
 - [umm_malloc](https://github.com/rhempel/umm_malloc) : Memory Manager For Small(ish) Microprocessors
 - [Doug Lea's malloc](https://github.com/sailfish009/malloc) : [g.oswego.edu/](https://gee.cs.oswego.edu/dl/html/malloc.html)
 - [tbman](https://github.com/johsteffens/tbman) : Memory Manager - Fast, Scalable and Easy to use
