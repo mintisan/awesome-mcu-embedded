@@ -274,3 +274,8 @@
 
 ## blog
 - [interrupt blog](https://interrupt.memfault.com/)
+
+## Alternatives
+
+- https://github.com/iDoka/awesome-embedded-software
+- https://github.com/nhivp/Awesome-Embedded
