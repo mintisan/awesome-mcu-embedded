@@ -146,6 +146,12 @@
 - [siglib](https://github.com/Numerix-DSP/siglib) : SigLib Digital Signal Processing and Machine Learning Library
 
 
+## machine learning
+
+- [SOD](https://github.com/symisc/sod) : An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
+- [CMSIS NN](https://github.com/ARM-software/CMSIS-NN) : CMSIS-NN Library
+
+
 
 
 
