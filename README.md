@@ -280,3 +280,4 @@
 - https://github.com/iDoka/awesome-embedded-software
 - https://github.com/nhivp/Awesome-Embedded
 - https://github.com/rust-embedded/awesome-embedded-rust
+- https://github.com/fkromer/awesome-embedded-linux
