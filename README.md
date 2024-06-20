@@ -6,7 +6,7 @@ A curated list of awesome libraries, projects, tutorials, and other resources re
 
 ## Table of Contents
 
-- [package manager](#package)
+- [package manager](#package-manager)
 - [libc](#libc)
 - [sdk](#sdk)
 - [utility](#utility)
