@@ -130,6 +130,8 @@
 - [libfixmath](https://github.com/PetteriAimonen/libfixmath) : Cross Platform Fixed Point Maths Library
 - [smolar](https://github.com/Maharshi-Pandya/smolar) : a tiny multidimensional array implementation in C similar to numpy, but only one file.
 - [Zephyr Scientific Library (zscilib)](https://github.com/zephyrproject-rtos/zscilib) : An open-source scientific computing library for embedded systems running Zephyr OS or standalone.
+- [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) : digital signal processing library for software-defined radios
+
 
 
 ## shell
