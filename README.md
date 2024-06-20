@@ -198,7 +198,7 @@
 - [littlefs](https://github.com/littlefs-project/littlefs) : Nor Flash
 - [YafFS-2](https://yaffs.net/) : 适合 Nand Flash
 
-### JSON
+### json
 - [cJSON](https://github.com/DaveGamble/cJSON)
 - [Lightweight JSON text parser](https://github.com/MaJerle/lwjson) : Lightweight JSON parser for embedded systems
 
@@ -246,7 +246,7 @@
 
 - [SOD](https://github.com/symisc/sod) : An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [CMSIS NN](https://github.com/ARM-software/CMSIS-NN) : CMSIS-NN Library
-
+- [BitNetMCU](https://github.com/cpldcpu/BitNetMCU) : Neural Networks with low bit weights on low end 32 bit microcontrollers such as the CH32V003 RISC-V Microcontroller and others
 
 
 ## component
@@ -273,6 +273,8 @@
 ### bootloader
 - [mcuboot](https://www.mcuboot.com/)
 
+### touch
+- [tslib](https://github.com/libts/tslib) : Touchscreen access library
 
 
 ### GUI
