@@ -2,7 +2,7 @@
 
 ![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-embedded-library.svg?label=contributions)](https://github.com/mintisan/awesome-kan/pulls) [![Commits](https://img.shields.io/github/last-commit/mintisan/awesome-embedded-library.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ![GitHub stars](https://img.shields.io/github/stars/mintisan/awesome-embedded-library.svg?style=social)
 
-A curated list of awesome libraries, projects, tutorials, and other resources related to Awesome Embedded Library(alomost C language). This repository aims to be a comprehensive and organized collection that will help  MCU embbded developers in the world!
+A curated list of awesome libraries related to MCU Embedded domain(almost C language). This repository aims to be a comprehensive and organized collection that will help MCU embedded developers in the world!
 
 ## Table of Contents
 
