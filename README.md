@@ -1,4 +1,5 @@
 
+
 # embedded-library-used
 
 ## package manager
@@ -16,9 +17,6 @@
 - https://github.com/picolibc/picolibc : picolibc - a C library designed for embedded 32- and 64- bit systems.
 
 
-
-
-
 ## sdk
 
 - [Memfault Firmware SDK](https://github.com/memfault/memfault-firmware-sdk) : Memfault Firmware SDK for embedded systems.
@@ -28,36 +26,47 @@
 ## utility
 - [C language utility library](https://github.com/MaJerle/lwutil) : Versatile and easy to use C language utility library with functions and macros commonly used in various applications
 - [Portable Snippets](https://github.com/nemequ/portable-snippets) : Collection of miscellaneous portable C snippets.
+- [stb](https://github.com/nothings/stb)
+- [Embedded Template Library (ETL)](https://github.com/ETLCPP/etl)
 
 
+## programming framework
 
-## rtos
+### rtos
 - [freeRTOS](https://www.freertos.org/) : 简单够用的 RTOS
 - [Zephyr OS](https://github.com/zephyrproject-rtos/zephyr) : 里面什么都有
 - [MiROS](https://github.com/QuantumLeaps/MiROS) : 学习用的
 - [YiYiYa](https://github.com/evilbinary/YiYiYa) : YiYiYa 一个os
 
 
-
-## event framework
+### event
 - [lwevt](https://github.com/MaJerle/lwevt) : 适用于【多生产者-单消费者】模型，比如多传感器数据的读取后统一管理
 - [NevermindZZT/cpost](https://github.com/NevermindZZT/cpost) : c语言程序上下文切换和解耦的工具
   - [C语言模块化编程的完美解耦](https://nevermindzzt.github.io/2020/12/20/C%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9D%97%E5%8C%96%E7%BC%96%E7%A8%8B%E7%9A%84%E5%AE%8C%E7%BE%8E%E8%A7%A3%E8%80%A6/)
 - [andsmedeiros/uevloop](https://github.com/andsmedeiros/uevloop) : A fast and lightweight event loop aimed at embedded platforms in C99.
 - [eerimoq/async](https://github.com/eerimoq/async) : Asynchronous framework in C for systems where low memory usage is important.
 
-## vm
+### vm
 
 - [MicroPython](https://github.com/micropython/micropython) : a lean and efficient Python implementation for microcontrollers and constrained systems
 - [PikaPython](https://github.com/pikasTech/PikaPython) : An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript.
 - [Rust Embedded](https://github.com/rust-embedded) : Enabling usage of Rust on Embedded Platforms (Embedded Linux / RTOS / Bare Metal)
 
+### thread
+- [C Thread Pool](https://github.com/Pithikos/C-Thread-Pool) : A minimal but powerful thread pool in ANSI C
 
-
-## coroutine
+### coroutine
 - [protothread](http://dunkels.com/adam/pt/) : 线程中的非阻塞轮询框架
 
+
+### oop framework
+- [PLOOC](https://github.com/GorgonMeducer/PLOOC)
+
+
+
 ## memory manager
+
+### malloc
 - [lwmem](https://github.com/MaJerle/lwmem) : 可控可调，挺好/realloc 有问题
 - [libmemory](https://github.com/embeddedartistry/libmemory) : Embedded systems memory management library. Implementations for malloc(), free(), and other useful memory management functions
 - [umm_malloc](https://github.com/rhempel/umm_malloc) : Memory Manager For Small(ish) Microprocessors
@@ -67,23 +76,23 @@
 
 
 
-
-
-## buffer
+### buffer
 - [lwrb](https://github.com/MaJerle/lwrb) : 循环buffer，适用于传感器数据的读取和发送（特别是DMA）
 - [Growable Memory Buffers for C99](https://github.com/skeeto/growable-buf)
 
-## queue
+### queue
 - [wl_queue](https://github.com/Aladdin-Wang/wl_queue) : 一个C语言编写的支持任意类型的环形队列.
 
-## fifo
+### fifo
 - [fifofast](https://github.com/nqtronix/fifofast) : A fast, generic fifo for MCUs.
 
-## frame packet
+### frame packet
 - [lwpkt](https://github.com/MaJerle/lwpkt) : 可用于打包传感器数据
 - [STCmdP Protocol manager](https://www.st.com/en/embedded-software/x-cube-opus.html)
 
-## printf
+## debug
+
+### printf
 - [mpaland/printf](https://github.com/mpaland/printf) : Tiny, fast, non-dependent and fully loaded printf implementation for embedded systems. Extensive test suite passing.
 - [eyalroz/printf](https://github.com/eyalroz/printf) : forked [mpaland/printf] Tiny, fast(ish), self-contained and fully loaded printf, sprinf etc. implementation, mainly for embedded systems
   - [Standalone printf/sprintf formatted printing function library](https://modm.io/reference/module/modm-printf/)
@@ -95,7 +104,7 @@
   - [printf() and friends… yes, really :-)](https://eyalroz.github.io/software/printf/)
   - [An Embedded-friendly printf Implementation](https://embeddedartistry.com/blog/2019/11/06/an-embedded-friendly-printf-implementation/)
 
-## log
+### log
 - [rokath/trice](https://github.com/rokath/trice) : super fast and tiny embedded device C printf-like trace code (works also inside interrupts) and real-time PC logging (trace ID visualization)
   - Homepage : https://rokath.github.io/trice/
   - [Tracing & Logging with the `TRICE` Library (Interrupts too!)](https://interrupt.memfault.com/blog/trice)
@@ -115,121 +124,9 @@
   - [McuLog: Logging Framework for small Embedded Microcontroller Systems](https://mcuoneclipse.com/2020/06/01/mculog-logging-framework-for-small-embedded-microcontroller-systems/)
   - [Logging On An Embedded System](https://blog.mbedded.ninja/programming/logging-on-an-embedded-system/)
 
-
-## flash
-- [SFUD](https://github.com/armink/SFUD)
-- [Flash Circular Buffer (FCB)](https://docs.zephyrproject.org/3.2.0/services/storage/fcb/fcb.html) : Flash circular buffer provides an abstraction through which you can treat flash like a FIFO. You append entries to the end, and read data from the beginning.
-
-## RPC
-
-- eRPC : https://github.com/EmbeddedRPC/erpc
-
-### flash database
-- [FlashDB](https://github.com/armink/FlashDB)
-
-## file system
-- [littlefs](https://github.com/littlefs-project/littlefs) : Nor Flash
-- [YafFS-2](https://yaffs.net/) : 适合 Nand Flash
-
-## JSON
-- [cJSON](https://github.com/DaveGamble/cJSON)
-- [Lightweight JSON text parser](https://github.com/MaJerle/lwjson) : Lightweight JSON parser for embedded systems
-
-
-## math library
-- [CMSIS DSP](https://github.com/ARM-software/CMSIS-DSP) : CMSIS Version 5 Development Repository
-- [libfixmath](https://github.com/PetteriAimonen/libfixmath) : Cross Platform Fixed Point Maths Library
-- [smolar](https://github.com/Maharshi-Pandya/smolar) : a tiny multidimensional array implementation in C similar to numpy, but only one file.
-- [Zephyr Scientific Library (zscilib)](https://github.com/zephyrproject-rtos/zscilib) : An open-source scientific computing library for embedded systems running Zephyr OS or standalone.
-- [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) : digital signal processing library for software-defined radios
-- [Kalman Filter C Implementation](https://github.com/sunsided/kalman-clib) : Microcontroller targeted C library for Kalman filtering
-- [siglib](https://github.com/Numerix-DSP/siglib) : SigLib Digital Signal Processing and Machine Learning Library
-
-
-## machine learning
-
-- [SOD](https://github.com/symisc/sod) : An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
-- [CMSIS NN](https://github.com/ARM-software/CMSIS-NN) : CMSIS-NN Library
-
-
-
-
-
-## shell
-- [letter shell](https://github.com/NevermindZZT/letter-shell) : 可以让串口对现有函数进行组合以及调用
-- [Lightweight shell](https://github.com/MaJerle/lwshell) : Lightweight shell implementation for embedded systems
-
-
-
-## button/key
-- [MultiButton](https://github.com/0x1abin/MultiButton) : 按键管理
-- [Lightweight event manager](https://github.com/MaJerle/lwbtn) : Lightweight button handler for embedded systems
-
-
-
-## timer
-- [MultiTimer](https://github.com/0x1abin/MultiTimer) : 软件定时器
-- [perf_counter](https://github.com/GorgonMeducer/perf_counter) : A dedicated performance counter for Cortex-M systick. It shares the SysTick with users' original SysTick function without interfering it. This library will bring new functionalities, such as performance counter, delay_us and clock() service defined in time.h
-- [Lightweight Date, Time & Cron](https://github.com/MaJerle/lwdtc) : Lightweight date, time & cron utilities for embedded systems
-- [Lightweight Watchdog for embedded systems](https://github.com/MaJerle/lwwdg) : Lightweight watchdog for RTOS and embedded systems
-
-
-## checksum
-- [libcrc](https://github.com/lammertb/libcrc) : CRC 校验数据完整性
-
-## Tracer
+### Tracer
 - [CmBacktrace](https://github.com/armink/CmBacktrace)
 
-## oop framework
-- [PLOOC](https://github.com/GorgonMeducer/PLOOC)
-
-## test framework
-- []()
-
-## runtime
-- []()
-
-## dfu
-- []()
-
-## bootloader
-- [mcuboot](https://www.mcuboot.com/)
-
-## usb
-- [tinyusb](https://github.com/hathach/tinyusb)
-
-## bluetooth
-- [btstack](https://github.com/bluekitchen/btstack)
-
-## TCP/IP
-- [uIP](https://www.wikiwand.com/en/UIP_(micro_IP))
-
-## GUI
-- [LVGL](https://lvgl.io/) : Light and Versatile Graphics Library
-
-### Menu
-- []()
-
-## font
-- []()
-
-## mqtt
-- [mqttclient](https://github.com/jiejieTop/mqttclient) : A high-performance, high-stability, cross-platform MQTT client, developed based on the socket API, can be used on embedded devices (FreeRTOS / LiteOS / RT-Thread / TencentOS tiny), Linux, Windows, Mac, with a very concise The API interface realizes the quality of service of QOS2 with very few resources, and seamlessly connects the mbedtls encryp…
-
-## Cryptography
-
-- [Tiny AES in C](https://github.com/kokke/tiny-AES-c) : Small portable AES128/192/256 in C
-- [micro-ecc](https://github.com/kmackay/micro-ecc) : ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
-
-
-## random number generator
-- []()
-
-## C++ template
-- [Embedded Template Library (ETL)](https://github.com/ETLCPP/etl)
-
-## public domain libraries
-- [stb](https://github.com/nothings/stb)
 
 
 ## compression
@@ -261,7 +158,7 @@
     - [qoir](https://github.com/nigeltao/qoir) : A fast, simple, lossless image file format.
     - [QOIX](https://github.com/AuburnSounds/gamut) : Image encoding and decoding library for D. Detailed layout control. Experimental codec QOIX.
 
-#### PNG
+### PNG
 
 - [libpng](http://www.libpng.org/pub/png/libpng.html)
 - [LodePNG](https://github.com/lvandeve/lodepng) : 解码 VGA 图片需要 2.3MB 的内存空间
@@ -271,7 +168,7 @@
 - https://github.com/misc0110/libattopng
 - https://github.com/elanthis/upng
 
-#### JPG
+### JPG
 
 - [libjpeg](https://libjpeg.sourceforge.net/)
 - https://github.com/richgel999/picojpeg
@@ -287,6 +184,103 @@
 - [AnimatedGIF](https://github.com/bitbank2/AnimatedGIF) : A lightweight Arduino GIF decoder for playing animated files from memory or files on SD cards
 
 
+
+## file manager
+
+### flash
+- [SFUD](https://github.com/armink/SFUD)
+- [Flash Circular Buffer (FCB)](https://docs.zephyrproject.org/3.2.0/services/storage/fcb/fcb.html) : Flash circular buffer provides an abstraction through which you can treat flash like a FIFO. You append entries to the end, and read data from the beginning.
+
+### flash database
+- [FlashDB](https://github.com/armink/FlashDB)
+
+### file system
+- [littlefs](https://github.com/littlefs-project/littlefs) : Nor Flash
+- [YafFS-2](https://yaffs.net/) : 适合 Nand Flash
+
+### JSON
+- [cJSON](https://github.com/DaveGamble/cJSON)
+- [Lightweight JSON text parser](https://github.com/MaJerle/lwjson) : Lightweight JSON parser for embedded systems
+
+
+## communication
+
+### usb
+- [tinyusb](https://github.com/hathach/tinyusb)
+
+### bluetooth
+- [btstack](https://github.com/bluekitchen/btstack)
+
+### TCP/IP
+- [uIP](https://www.wikiwand.com/en/UIP_(micro_IP))
+
+
+### mqtt
+- [mqttclient](https://github.com/jiejieTop/mqttclient) : A high-performance, high-stability, cross-platform MQTT client, developed based on the socket API, can be used on embedded devices (FreeRTOS / LiteOS / RT-Thread / TencentOS tiny), Linux, Windows, Mac, with a very concise The API interface realizes the quality of service of QOS2 with very few resources, and seamlessly connects the mbedtls encryp…
+
+### Cryptography
+
+- [Tiny AES in C](https://github.com/kokke/tiny-AES-c) : Small portable AES128/192/256 in C
+- [micro-ecc](https://github.com/kmackay/micro-ecc) : ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
+
+### RPC
+- eRPC : https://github.com/EmbeddedRPC/erpc
+
+
+### checksum
+- [libcrc](https://github.com/lammertb/libcrc) : CRC 校验数据完整性
+
+## Algorithm
+
+### math library
+- [CMSIS DSP](https://github.com/ARM-software/CMSIS-DSP) : CMSIS Version 5 Development Repository
+- [libfixmath](https://github.com/PetteriAimonen/libfixmath) : Cross Platform Fixed Point Maths Library
+- [smolar](https://github.com/Maharshi-Pandya/smolar) : a tiny multidimensional array implementation in C similar to numpy, but only one file.
+- [Zephyr Scientific Library (zscilib)](https://github.com/zephyrproject-rtos/zscilib) : An open-source scientific computing library for embedded systems running Zephyr OS or standalone.
+- [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) : digital signal processing library for software-defined radios
+- [Kalman Filter C Implementation](https://github.com/sunsided/kalman-clib) : Microcontroller targeted C library for Kalman filtering
+- [siglib](https://github.com/Numerix-DSP/siglib) : SigLib Digital Signal Processing and Machine Learning Library
+
+
+### machine learning
+
+- [SOD](https://github.com/symisc/sod) : An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
+- [CMSIS NN](https://github.com/ARM-software/CMSIS-NN) : CMSIS-NN Library
+
+
+
+## component
+
+### shell
+- [letter shell](https://github.com/NevermindZZT/letter-shell) : 可以让串口对现有函数进行组合以及调用
+- [Lightweight shell](https://github.com/MaJerle/lwshell) : Lightweight shell implementation for embedded systems
+
+
+
+### button/key
+- [MultiButton](https://github.com/0x1abin/MultiButton) : 按键管理
+- [Lightweight event manager](https://github.com/MaJerle/lwbtn) : Lightweight button handler for embedded systems
+
+
+
+### timer
+- [MultiTimer](https://github.com/0x1abin/MultiTimer) : 软件定时器
+- [perf_counter](https://github.com/GorgonMeducer/perf_counter) : A dedicated performance counter for Cortex-M systick. It shares the SysTick with users' original SysTick function without interfering it. This library will bring new functionalities, such as performance counter, delay_us and clock() service defined in time.h
+- [Lightweight Date, Time & Cron](https://github.com/MaJerle/lwdtc) : Lightweight date, time & cron utilities for embedded systems
+- [Lightweight Watchdog for embedded systems](https://github.com/MaJerle/lwwdg) : Lightweight watchdog for RTOS and embedded systems
+
+
+### bootloader
+- [mcuboot](https://www.mcuboot.com/)
+
+
+
+### GUI
+- [LVGL](https://lvgl.io/) : Light and Versatile Graphics Library
+
+
+### random number generator
+- []()
 
 
 
