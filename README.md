@@ -24,6 +24,7 @@
 - [Memfault Firmware SDK](https://github.com/memfault/memfault-firmware-sdk) : Memfault Firmware SDK for embedded systems.
 - [Golioth Firmware SDK](https://github.com/golioth/golioth-firmware-sdk)
 - [Swedish Embedded Platform SDK](https://github.com/swedishembedded/sdk)
+- [C language utility library](https://github.com/MaJerle/lwutil) : Versatile and easy to use C language utility library with functions and macros commonly used in various applications
 
 ## rtos
 - [freeRTOS](https://www.freertos.org/) : 简单够用的 RTOS
@@ -121,6 +122,8 @@
 
 ## JSON
 - [cJSON](https://github.com/DaveGamble/cJSON)
+- [Lightweight JSON text parser](https://github.com/MaJerle/lwjson) : Lightweight JSON parser for embedded systems
+
 
 ## math library
 - [CMSIS DSP](https://github.com/ARM-software/CMSIS-DSP) : CMSIS Version 5 Development Repository
@@ -131,13 +134,22 @@
 
 ## shell
 - [letter shell](https://github.com/NevermindZZT/letter-shell) : 可以让串口对现有函数进行组合以及调用
+- [Lightweight shell](https://github.com/MaJerle/lwshell) : Lightweight shell implementation for embedded systems
+
+
 
 ## button/key
 - [MultiButton](https://github.com/0x1abin/MultiButton) : 按键管理
+- [Lightweight event manager](https://github.com/MaJerle/lwbtn) : Lightweight button handler for embedded systems
+
+
 
 ## timer
 - [MultiTimer](https://github.com/0x1abin/MultiTimer) : 软件定时器
 - [perf_counter](https://github.com/GorgonMeducer/perf_counter) : A dedicated performance counter for Cortex-M systick. It shares the SysTick with users' original SysTick function without interfering it. This library will bring new functionalities, such as performance counter, delay_us and clock() service defined in time.h
+- [Lightweight Date, Time & Cron](https://github.com/MaJerle/lwdtc) : Lightweight date, time & cron utilities for embedded systems
+- [Lightweight Watchdog for embedded systems](https://github.com/MaJerle/lwwdg) : Lightweight watchdog for RTOS and embedded systems
+
 
 ## checksum
 - [libcrc](https://github.com/lammertb/libcrc) : CRC 校验数据完整性
