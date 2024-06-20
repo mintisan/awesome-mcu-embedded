@@ -216,6 +216,10 @@
 ## mqtt
 - [mqttclient](https://github.com/jiejieTop/mqttclient) : A high-performance, high-stability, cross-platform MQTT client, developed based on the socket API, can be used on embedded devices (FreeRTOS / LiteOS / RT-Thread / TencentOS tiny), Linux, Windows, Mac, with a very concise The API interface realizes the quality of service of QOS2 with very few resources, and seamlessly connects the mbedtls encryp…
 
+## Cryptography
+
+- [Tiny AES in C](https://github.com/kokke/tiny-AES-c) : Small portable AES128/192/256 in C
+- [micro-ecc](https://github.com/kmackay/micro-ecc) : ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
 
 
 ## random number generator
