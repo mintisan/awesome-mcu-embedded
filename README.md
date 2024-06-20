@@ -71,6 +71,9 @@
 ## queue
 - [wl_queue](https://github.com/Aladdin-Wang/wl_queue) : 一个C语言编写的支持任意类型的环形队列.
 
+## fifo
+- [fifofast](https://github.com/nqtronix/fifofast) : A fast, generic fifo for MCUs.
+
 ## frame packet
 - [lwpkt](https://github.com/MaJerle/lwpkt) : 可用于打包传感器数据
 - [STCmdP Protocol manager](https://www.st.com/en/embedded-software/x-cube-opus.html)
