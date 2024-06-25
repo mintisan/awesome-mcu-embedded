@@ -79,6 +79,9 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 ### coroutine
 - [protothread](http://dunkels.com/adam/pt/) : 线程中的非阻塞轮询框架
 
+### Finite State Machine (FSM) 
+
+- [State Machine Design in C](https://github.com/endurodave/C_StateMachine) : A compact C finite state machine (FSM) implementation that's easy to use on embedded and PC-based systems.
 
 ### oop framework
 - [PLOOC](https://github.com/GorgonMeducer/PLOOC)
