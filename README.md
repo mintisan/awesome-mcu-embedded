@@ -81,7 +81,7 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 - [coroutine](https://www.chiark.greenend.org.uk/~sgtatham/coroutine.h)
 
 ### Finite State Machine (FSM) 
-
+- [At-FSM](https://github.com/At-EC/At-FSM) : At-FSM is an open and user-friendly embedded Finite State Machine (FSM) included the Primitive State Machine (PSM) and Hierarchical State Machine (HSM).
 - [State Machine Design in C](https://github.com/endurodave/C_StateMachine) : A compact C finite state machine (FSM) implementation that's easy to use on embedded and PC-based systems.
 
 ### oop framework
