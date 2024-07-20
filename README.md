@@ -265,6 +265,7 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 - [liquid-dsp](https://github.com/jgaeddert/liquid-dsp) : digital signal processing library for software-defined radios
 - [Kalman Filter C Implementation](https://github.com/sunsided/kalman-clib) : Microcontroller targeted C library for Kalman filtering
 - [siglib](https://github.com/Numerix-DSP/siglib) : SigLib Digital Signal Processing and Machine Learning Library
+- [IQmath](https://www.ti.com/tool/MSP-IQMATHLIB) : Fixed Point Math Library for MSP
 
 
 ### machine learning
