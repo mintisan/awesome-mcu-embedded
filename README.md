@@ -279,6 +279,7 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 - [Silicon Labs Machine Learning](https://www.silabs.com/applications/artificial-intelligence-machine-learning) : [Silicon Labs Machine Learning Toolkit (MLTK)](https://github.com/SiliconLabs/mltk)
 - [AmbiqAI](https://github.com/AmbiqAI) : Ludicrously ultra low power Endpoint AI.
 - [nRF Machine Learning](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/applications/machine_learning/README.html) : https://edgeimpulse.com/
+- [Renesas MCU e-AI](https://www.renesas.com/us/en/e-ai-development-environment-microcontrollers)
 - [Nuvoton.AI](https://www.nuvoton.com/ai/)
 
 ## component
