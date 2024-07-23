@@ -276,7 +276,7 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 
 - [STM32AICube](https://stm32ai.st.com/stm32-cube-ai/) : Free AI model optimizer for STM32
 - [NXP eIQ® ML Software Development Environment](https://www.nxp.com/design/design-center/software/eiq-ml-development-environment:EIQ)
-- [Silicon Labs Machine Learning](https://www.silabs.com/applications/artificial-intelligence-machine-learning)
+- [Silicon Labs Machine Learning](https://www.silabs.com/applications/artificial-intelligence-machine-learning) : [Silicon Labs Machine Learning Toolkit (MLTK)](https://github.com/SiliconLabs/mltk)
 - [AmbiqAI](https://github.com/AmbiqAI) : Ludicrously ultra low power Endpoint AI.
 - [nRF Machine Learning](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/applications/machine_learning/README.html) : https://edgeimpulse.com/
 - [Nuvoton.AI](https://www.nuvoton.com/ai/)
