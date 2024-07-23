@@ -273,6 +273,10 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 - [SOD](https://github.com/symisc/sod) : An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [CMSIS NN](https://github.com/ARM-software/CMSIS-NN) : CMSIS-NN Library
 - [BitNetMCU](https://github.com/cpldcpu/BitNetMCU) : Neural Networks with low bit weights on low end 32 bit microcontrollers such as the CH32V003 RISC-V Microcontroller and others
+
+- [STM32AICube](https://stm32ai.st.com/stm32-cube-ai/) : Free AI model optimizer for STM32
+- [NXP eIQ® ML Software Development Environment](https://www.nxp.com/design/design-center/software/eiq-ml-development-environment:EIQ)
+- [Silicon Labs Machine Learning](https://www.silabs.com/applications/artificial-intelligence-machine-learning)
 - [AmbiqAI](https://github.com/AmbiqAI) : Ludicrously ultra low power Endpoint AI.
 - [nRF Machine Learning](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/applications/machine_learning/README.html) : https://edgeimpulse.com/
 - [Nuvoton.AI](https://www.nuvoton.com/ai/)
