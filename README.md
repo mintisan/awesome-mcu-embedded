@@ -273,7 +273,7 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 - [SOD](https://github.com/symisc/sod) : An Embedded Computer Vision & Machine Learning Library (CPU Optimized & IoT Capable)
 - [CMSIS NN](https://github.com/ARM-software/CMSIS-NN) : CMSIS-NN Library
 - [BitNetMCU](https://github.com/cpldcpu/BitNetMCU) : Neural Networks with low bit weights on low end 32 bit microcontrollers such as the CH32V003 RISC-V Microcontroller and others
-
+- [AmbiqAI](https://github.com/AmbiqAI) : Ludicrously ultra low power Endpoint AI.
 
 ## component
 
