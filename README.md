@@ -274,6 +274,7 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 - [CMSIS NN](https://github.com/ARM-software/CMSIS-NN) : CMSIS-NN Library
 - [BitNetMCU](https://github.com/cpldcpu/BitNetMCU) : Neural Networks with low bit weights on low end 32 bit microcontrollers such as the CH32V003 RISC-V Microcontroller and others
 - [AmbiqAI](https://github.com/AmbiqAI) : Ludicrously ultra low power Endpoint AI.
+- [nRF Machine Learning](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/applications/machine_learning/README.html)
 
 ## component
 
