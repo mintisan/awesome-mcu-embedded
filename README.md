@@ -247,6 +247,7 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 
 - [Tiny AES in C](https://github.com/kokke/tiny-AES-c) : Small portable AES128/192/256 in C
 - [micro-ecc](https://github.com/kmackay/micro-ecc) : ECDH and ECDSA for 8-bit, 32-bit, and 64-bit processors.
+- [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) : High-performance secp256k1 engine with embedded, RISC-V, ESP32, CPU, CUDA, OpenCL, and WebAssembly targets, plus a stable C ABI.
 
 ### RPC
 - eRPC : https://github.com/EmbeddedRPC/erpc
@@ -350,4 +351,3 @@ Please make sure that the resources you add are relevant to the field of MCU Emb
 ## License
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
-
