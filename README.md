@@ -284,6 +284,7 @@ A curated list of awesome libraries, tutorials, projects and other related to MC
 - [nRF Machine Learning](https://docs.nordicsemi.com/bundle/ncs-latest/page/nrf/applications/machine_learning/README.html) : https://edgeimpulse.com/
 - [Renesas MCU e-AI](https://www.renesas.com/us/en/e-ai-development-environment-microcontrollers)
 - [Nuvoton.AI](https://www.nuvoton.com/ai/)
+- [ForestHub.ai](https://foresthub.ai) : Embedded & edge AI agent platform with codegen for ESP32/STM32
 
 ## component
 
